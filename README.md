@@ -5,4 +5,4 @@
 #### Lamin Touray
 #### Justin Tabios
 
-This repo includes all the scripts used for this project.
+This repo includes all the SOPs used for this project.
