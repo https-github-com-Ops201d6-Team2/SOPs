@@ -20,4 +20,9 @@ This repo includes all the SOPs used for this project.
   - How will you administer and support Windows systems?
   - How will your company enhance the network’s usability and security?
   - How will you support company cloud services?
+- For each SOP included in your MSP SOW deliverable, attribute authorship to the team member
+  - SOPs can either be:
+  - Worked on as google docs and submitted as PDFs
+  - Worked on and submitted as Markdown files
+
 
