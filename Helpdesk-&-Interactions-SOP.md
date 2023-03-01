@@ -10,6 +10,7 @@
 
 For user wanting to submit a ticket:
 Using the user portal would be a more efficient way to submit a ticket request.
+User Portal: https://cyfisupport.on.spiceworks.com/portal 
 
 
 # Implementing CompTIA Troubleshooting Methodology 
