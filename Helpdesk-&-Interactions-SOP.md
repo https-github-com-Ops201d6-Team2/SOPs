@@ -35,4 +35,5 @@ Example of prioritizing is one user having an issue with Microsoft from download
 
 # How to implement Scribe into your documentation process. 
 
-1.	Sign up for a Scribe account using your professional/work google account. 
+1.	Sign up for a Scribe account using your professional/work google account.
+2. <iframe src="https://scribehow.com/embed/Learning_How_to_Use_Scribe__f0qrWEh3TwelH4qKYs_TPw" width="640" height="640" allowfullscreen frameborder="0"></iframe> 
