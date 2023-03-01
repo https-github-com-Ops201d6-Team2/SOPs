@@ -6,7 +6,7 @@
 1. [Sign-up for an account](https://accounts.spiceworks.com/sign_in?policy=hosted_help_desk&success=https://on.spiceworks.com). Preferably use your professional/work email. Signing up through connecting with Google account. 
 2. Once signed up, you have access to the ticketing system. 
 3. Go to settings by hitting the gear icon that is located on the leftside toolbar. 
-4. Then select 'Employee administration' and 'Add Employee' that will be working in the ticketing system. 
+4. Then select 'Employee administration' and 'Add Employee'. There are 3 options Admin, Tech, Other. 
 
 For user wanting to submit a ticket:
 Using the user portal would be a more efficient way to submit a ticket request.
