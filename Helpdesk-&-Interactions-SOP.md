@@ -76,7 +76,53 @@ Document everything
 
 
 
-# How to implement Scribe into your documentation process. 
+# How to implement Scribe into your documentation process
 
 1.	Sign up for a Scribe account using your professional/work google account.
-2.  How to implement Scribe into your documenting processs: https://scribehow.com/shared/Learning_How_to_Use_Scribe__f0qrWEh3TwelH4qKYs_TPw 
+2.  Downloading Scribe on to Windows Workspace
+
+# Downloading ScribeHow Desktop App for Windows
+#### [Made by anonlocal scientist with Scribe](https://scribehow.com/shared/Downloading_ScribeHow_Desktop_App_for_Windows__bRfeWjcETZ-Vyf6REsVIeQ)
+
+
+**1. Navigate to https://scribehow.com/signin**
+
+**2. Click here.**
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-03-02/a515755c-f394-4e54-a7af-72d27bae033c/ascreenshot.jpeg?tl_px=166,0&amp;br_px=1481,740&amp;sharp=0.8&amp;width=560&amp;wat_scale=50&amp;wat=1&amp;wat_opacity=0.7&amp;wat_gravity=northwest&amp;wat_url=https://colony-labs-public.s3.us-east-2.amazonaws.com/images/watermarks/watermark_default.png&amp;wat_pad=356,110)
+
+**3. Click "Sign in with Google"**
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-03-02/8533465d-c576-4b7d-b8f4-894aecf5163a/ascreenshot.jpeg?tl_px=588,133&amp;br_px=1903,873&amp;sharp=0.8&amp;width=560&amp;wat_scale=50&amp;wat=1&amp;wat_opacity=0.7&amp;wat_gravity=northwest&amp;wat_url=https://colony-labs-public.s3.us-east-2.amazonaws.com/images/watermarks/watermark_default.png&amp;wat_pad=262,139)
+
+**4. Click on your professional/ work email**
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-03-02/0577b5ca-71c1-4cd8-9de3-a5742cb4a57d/user_cropped_screenshot.jpeg?tl_px=203,110&amp;br_px=1518,850&amp;sharp=0.8&amp;width=560)
+
+**5. Click here.**
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-03-02/2adf100c-c885-4d66-933a-7efd1d4f89ad/ascreenshot.jpeg?tl_px=0,507&amp;br_px=1315,1247&amp;sharp=0.8&amp;width=560&amp;wat_scale=50&amp;wat=1&amp;wat_opacity=0.7&amp;wat_gravity=northwest&amp;wat_url=https://colony-labs-public.s3.us-east-2.amazonaws.com/images/watermarks/watermark_default.png&amp;wat_pad=-1,251)
+
+**6. Click "Desktop App"**
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-03-02/48892ff9-8151-4674-9fd2-7c263fa585ee/ascreenshot.jpeg?tl_px=0,507&amp;br_px=1315,1247&amp;sharp=0.8&amp;width=560&amp;wat_scale=50&amp;wat=1&amp;wat_opacity=0.7&amp;wat_gravity=northwest&amp;wat_url=https://colony-labs-public.s3.us-east-2.amazonaws.com/images/watermarks/watermark_default.png&amp;wat_pad=138,205)
+
+**7. Click "Download for Windows"**
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-03-02/f0a56c1b-9cfa-4c12-8903-e79929954953/ascreenshot.jpeg?tl_px=676,507&amp;br_px=1991,1247&amp;sharp=0.8&amp;width=560&amp;wat_scale=50&amp;wat=1&amp;wat_opacity=0.7&amp;wat_gravity=northwest&amp;wat_url=https://colony-labs-public.s3.us-east-2.amazonaws.com/images/watermarks/watermark_default.png&amp;wat_pad=262,187)
+
+**8. Click here.**
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-03-02/0d501607-0691-426e-8f65-89c058b03b47/ascreenshot.jpeg?tl_px=586,76&amp;br_px=1901,816&amp;sharp=0.8&amp;width=560&amp;wat_scale=50&amp;wat=1&amp;wat_opacity=0.7&amp;wat_gravity=northwest&amp;wat_url=https://colony-labs-public.s3.us-east-2.amazonaws.com/images/watermarks/watermark_default.png&amp;wat_pad=262,139)
+
+**9. Press [[ctrl]] + [[j]]**
+
+**10. Switch to tab "chrome://downloads"**
+
+**11. Run the Scribe Setup Installer and select all default settings **
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-03-02/cfd64495-f4dc-482c-b73a-0f0c32bb3500/screenshot.png?tl_px=290,0&amp;br_px=1036,90&amp;sharp=0.8&amp;width=560)
+#### [Made with Scribe](https://scribehow.com/shared/Downloading_ScribeHow_Desktop_App_for_Windows__bRfeWjcETZ-Vyf6REsVIeQ)
+
+
+
