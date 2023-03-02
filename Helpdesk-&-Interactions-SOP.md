@@ -23,14 +23,43 @@ Example of prioritizing is one user having an issue with Microsoft from download
 2. Establish Priorities
 3. Document Everything
 
-# Methodology: 
-1.	Identifying the Issue
-2.	Research knowledge base/Internet, if applicable
-3.	Establish a theory to determine the cause
-4.	Establish a plan of action to resolve the problem and identify potential effects
-5.	Implement the solution or escalate as necessary
-6.	Verify full system functionality and, if applicable, implement preventive measures
-7.	Document findings/lessons learned, actions and outcomes
+# 1.	Identify the problem:
+Easiest Step. 
+May be accomplished by phone call by user, help desk ticket, email address, log file entry, etc. 
+Gather information from log files and error messages
+Questioning users
+Identify symptoms 
+Determining recent changes
+Replicating Problem
+Approaching multiple problems one at a time
+Narrowing scope of problem
+2.	Establish a theory of probable cause: 
+The way this step is written acknowledges that the root cause (step one) may not have been accurately identified. However, the cause is specific enough to begin troubleshooting. 
+
+During this step you may have to do a significant amount of research. Vendor documentation may be all you need to establish a base theory. 
+3.	Test the theory to determine the cause:
+Changes should not be made until you are reasonably sure you have a solution that you’re ready to implement.
+
+This step is also a part of “information-gathering” phase. 
+
+During this stage, may find yourself circling back to step one: Identify the Problem. If you test theory to discover the likely cause and find that you’re incorrect, you’d have to start the research all over again. 
+
+Once confident you’ve found fundamental issue, next step is to prepare to solve problem. 
+
+¬¬¬
+4.	Establish a plan of action to resolve the problem and implement the solution
+
+In this step you can now plan how to address the root cause of the problem. 
+Before you jump into action, make sure you go through YOUR own checks of making sure that the system and data is backed up, get proper approval to make changes with upper IT staff. 
+
+After you’ve done your own POST checks, you’re free to do whatever you need to do to solve the problem. 
+5.	Verify full system functionality, and, if applicable, implement preventive measures
+Have users rely on system test functionality for you. 
+
+Depending on problem, may need to apply fix to multiple servers on other devices. 
+6.	Document findings, actions and outcomes
+Document everything
+
 
 
 # How to implement Scribe into your documentation process. 
