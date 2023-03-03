@@ -23,7 +23,7 @@ Example of prioritizing is one user having an issue with Microsoft from download
 2. Establish Priorities
 3. Document Everything
 
-# 1.	Identify the problem:
+## 1.	Identify the problem:
 Easiest Step. 
 May be accomplished by phone call by user, help desk ticket, email address, log file entry, etc. 
 Gather information from log files and error messages
@@ -35,14 +35,14 @@ Approaching multiple problems one at a time
 Narrowing scope of problem
 
 
-2.	Establish a theory of probable cause: 
+## 2.	Establish a theory of probable cause: 
 The way this step is written acknowledges that the root cause (step one) may not have been accurately identified. However, the cause is specific enough to begin troubleshooting. 
 
 During this step you may have to do a significant amount of research. Vendor documentation may be all you need to establish a base theory. 
 
 
 
-3.	Test the theory to determine the cause:
+## 3.	Test the theory to determine the cause:
 Changes should not be made until you are reasonably sure you have a solution that you’re ready to implement.
 
 This step is also a part of “information-gathering” phase. 
@@ -55,7 +55,7 @@ Once confident you’ve found fundamental issue, next step is to prepare to solv
 
 
 ¬¬¬
-4.	Establish a plan of action to resolve the problem and implement the solution
+## 4.	Establish a plan of action to resolve the problem and implement the solution
 
 In this step you can now plan how to address the root cause of the problem. 
 Before you jump into action, make sure you go through YOUR own checks of making sure that the system and data is backed up, get proper approval to make changes with upper IT staff. 
@@ -64,14 +64,14 @@ After you’ve done your own POST checks, you’re free to do whatever you need 
 
 
 
-5.	Verify full system functionality, and, if applicable, implement preventive measures
+## 5.	Verify full system functionality, and, if applicable, implement preventive measures
 Have users rely on system test functionality for you. 
 
 Depending on problem, may need to apply fix to multiple servers on other devices. 
 
 
 
-6.	Document findings, actions and outcomes
+## 6.	Document findings, actions and outcomes
 Document everything
 
 
