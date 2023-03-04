@@ -650,5 +650,75 @@ Document everything
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-03-02/cfd64495-f4dc-482c-b73a-0f0c32bb3500/screenshot.png?tl_px=290,0&amp;br_px=1036,90&amp;sharp=0.8&amp;width=560)
 #### [Made with Scribe](https://scribehow.com/shared/Downloading_ScribeHow_Desktop_App_for_Windows__bRfeWjcETZ-Vyf6REsVIeQ)
 
+# Setting up Thunderbird Account
+#### [Made by anonlocal scientist with Scribe](https://scribehow.com/shared/Setting_up_Thunderbird_Account__F7MR0XmyRZaFAoiYFnr8yg)
+
+
+**1. Double-click here:**
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-03-03/85d0ca3a-e67b-44e7-946a-c8db0838b038/screenshot.jpeg?tl_px=277,0&amp;br_px=1023,420&amp;sharp=0.8&amp;width=560&amp;wat_scale=50&amp;wat=1&amp;wat_opacity=0.7&amp;wat_gravity=northwest&amp;wat_url=https://colony-labs-public.s3.us-east-2.amazonaws.com/images/watermarks/watermark_default.png&amp;wat_pad=319,60)
+
+**2. Click "Account Setup"**
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-03-03/b4008d8c-9c9e-49d5-b0b4-ee4eb3d6cac4/screenshot.jpeg?tl_px=0,0&amp;br_px=746,420&amp;sharp=0.8&amp;width=560&amp;wat_scale=50&amp;wat=1&amp;wat_opacity=0.7&amp;wat_gravity=northwest&amp;wat_url=https://colony-labs-public.s3.us-east-2.amazonaws.com/images/watermarks/watermark_default.png&amp;wat_pad=110,20)
+
+**3. Click "Home"**
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-03-03/813a05c2-d453-4bad-81c7-58477b44922a/screenshot.jpeg?tl_px=0,0&amp;br_px=746,420&amp;sharp=0.8&amp;width=560&amp;wat_scale=50&amp;wat=1&amp;wat_opacity=0.7&amp;wat_gravity=northwest&amp;wat_url=https://colony-labs-public.s3.us-east-2.amazonaws.com/images/watermarks/watermark_default.png&amp;wat_pad=64,-9)
+
+**4. Click "Account Setup"**
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-03-03/6e53bf23-2f1a-40cd-97b6-c98576d46429/screenshot.jpeg?tl_px=0,0&amp;br_px=746,420&amp;sharp=0.8&amp;width=560&amp;wat_scale=50&amp;wat=1&amp;wat_opacity=0.7&amp;wat_gravity=northwest&amp;wat_url=https://colony-labs-public.s3.us-east-2.amazonaws.com/images/watermarks/watermark_default.png&amp;wat_pad=184,-6)
+
+**5. Click "Your full name"**
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-03-03/7a05c0d7-7e69-4552-8faf-d041bbf6ef1a/screenshot.jpeg?tl_px=0,28&amp;br_px=746,448&amp;sharp=0.8&amp;width=560&amp;wat_scale=50&amp;wat=1&amp;wat_opacity=0.7&amp;wat_gravity=northwest&amp;wat_url=https://colony-labs-public.s3.us-east-2.amazonaws.com/images/watermarks/watermark_default.png&amp;wat_pad=202,139)
+
+**6. Type "Anon Scientist [[tab]]"**
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-03-03/61ee2d07-a279-4f9f-a8a5-a18e1cc0ecc0/screenshot.jpeg?tl_px=0,28&amp;br_px=746,448&amp;sharp=0.8&amp;width=560)
+
+**7. Type "anonlocalscientist@gmail.com [[tab]]"**
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-03-03/30d80088-e7ac-4d09-812b-2f17ebc0efa9/screenshot.jpeg?tl_px=0,28&amp;br_px=746,448&amp;sharp=0.8&amp;width=560)
+
+**8. Type "Annyeong6!"**
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-03-03/4f6583d6-0f11-4c83-834d-858a712fe42f/screenshot.jpeg?tl_px=0,28&amp;br_px=746,448&amp;sharp=0.8&amp;width=560)
+
+**9. Click here:**
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-03-03/41c1d84c-3d51-4737-9db9-40b458f2c047/screenshot.jpeg?tl_px=73,237&amp;br_px=819,657&amp;sharp=0.8&amp;width=560&amp;wat_scale=50&amp;wat=1&amp;wat_opacity=0.7&amp;wat_gravity=northwest&amp;wat_url=https://colony-labs-public.s3.us-east-2.amazonaws.com/images/watermarks/watermark_default.png&amp;wat_pad=262,139)
+
+**10. Click here:**
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-03-03/c83c914c-6868-4b59-880a-17452a5d1a5e/screenshot.jpeg?tl_px=37,348&amp;br_px=783,768&amp;sharp=0.8&amp;width=560&amp;wat_scale=50&amp;wat=1&amp;wat_opacity=0.7&amp;wat_gravity=northwest&amp;wat_url=https://colony-labs-public.s3.us-east-2.amazonaws.com/images/watermarks/watermark_default.png&amp;wat_pad=262,192)
+
+**11. Click "Next"**
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-03-03/0918d570-1a30-41de-afd4-7868f317b437/screenshot.jpeg?tl_px=59,228&amp;br_px=805,648&amp;sharp=0.8&amp;width=560&amp;wat_scale=50&amp;wat=1&amp;wat_opacity=0.7&amp;wat_gravity=northwest&amp;wat_url=https://colony-labs-public.s3.us-east-2.amazonaws.com/images/watermarks/watermark_default.png&amp;wat_pad=262,139)
+
+**12. Click "Enter your password"**
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-03-03/81a77b68-ed75-4443-b4f9-56a1d135827f/screenshot.jpeg?tl_px=80,237&amp;br_px=826,657&amp;sharp=0.8&amp;width=560&amp;wat_scale=50&amp;wat=1&amp;wat_opacity=0.7&amp;wat_gravity=northwest&amp;wat_url=https://colony-labs-public.s3.us-east-2.amazonaws.com/images/watermarks/watermark_default.png&amp;wat_pad=262,139)
+
+**13. Type "Annyeong6! [[enter]]"**
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-03-03/63596a9d-84ce-432d-b9a1-c93562bfc164/screenshot.jpeg?tl_px=80,237&amp;br_px=826,657&amp;sharp=0.8&amp;width=560)
+
+**14. Click "Allow"**
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-03-03/31422fd1-c267-424c-b14f-66e703d251bd/screenshot.jpeg?tl_px=277,348&amp;br_px=1023,768&amp;sharp=0.8&amp;width=560&amp;wat_scale=50&amp;wat=1&amp;wat_opacity=0.7&amp;wat_gravity=northwest&amp;wat_url=https://colony-labs-public.s3.us-east-2.amazonaws.com/images/watermarks/watermark_default.png&amp;wat_pad=263,200)
+
+**15. Click here:**
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-03-03/57dc7595-f7b2-445c-b8ea-1cc237879dfb/screenshot.jpeg?tl_px=277,321&amp;br_px=1023,741&amp;sharp=0.8&amp;width=560&amp;wat_scale=50&amp;wat=1&amp;wat_opacity=0.7&amp;wat_gravity=northwest&amp;wat_url=https://colony-labs-public.s3.us-east-2.amazonaws.com/images/watermarks/watermark_default.png&amp;wat_pad=522,139)
+
+**16. Click here:**
+
+![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2023-03-03/c39e0329-31bc-4632-80bc-cb366d630b51/screenshot.jpeg?tl_px=0,0&amp;br_px=746,420&amp;sharp=0.8&amp;width=560&amp;wat_scale=50&amp;wat=1&amp;wat_opacity=0.7&amp;wat_gravity=northwest&amp;wat_url=https://colony-labs-public.s3.us-east-2.amazonaws.com/images/watermarks/watermark_default.png&amp;wat_pad=-10,-8)
+#### [Made with Scribe](https://scribehow.com/shared/Setting_up_Thunderbird_Account__F7MR0XmyRZaFAoiYFnr8yg)
+
+
 
 
